@@ -1,4 +1,2 @@
 # home
-# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
-DOMAIN-SUFFIX,acl4.ssr
 IP-CIDR,100.64.0.0/10,no-resolve
