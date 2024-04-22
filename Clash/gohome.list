@@ -1,4 +1,4 @@
 # home
 USER-AGENT,Argo*
 IP-CIDR,192.168.31.0/24,no-resolve
-IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR,100.64.0.0/10,US-bwg-hy2-CN2GIA,no-resolve
