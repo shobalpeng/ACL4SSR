@@ -1,2 +1,3 @@
 # home
-IP-CIDR,100.64.0.0/10,no-resolve
+USER-AGENT,Argo*
+IP-CIDR,100.64.0.0/24,no-resolve
