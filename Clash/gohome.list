@@ -1,4 +1,4 @@
 # home
 USER-AGENT,Argo*
-DOMAIN-SUFFIX,tail33ecc.ts.net
+DOMAIN-SUFFIX,tail33ecc.ts.net,no-resolve
 IP-CIDR,192.168.31.0/24,no-resolve
