@@ -1,3 +1,4 @@
 # home
 USER-AGENT,Argo*
 IP-CIDR,100.64.0.0/24,no-resolve
+DOMAIN-SUFFIX,ts.net
