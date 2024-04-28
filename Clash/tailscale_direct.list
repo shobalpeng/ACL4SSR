@@ -1,0 +1,5 @@
+# tailscale
+USER-AGENT,Argo*
+DOMAIN-SUFFIX,ts.net,no-resolve
+DOMAIN-SUFFIX,tailscale.io,no-resolve
+DOMAIN-SUFFIX,tailscale.com,no-resolve
