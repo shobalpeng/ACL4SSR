@@ -1,0 +1,3 @@
+# ss-home
+USER-AGENT,Argo*
+IP-CIDR,10.10.10.0/24,ss-home
