@@ -2,3 +2,4 @@
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,tailscale.com
+IP-CIDR,10.10.10.0/24,ss-home
