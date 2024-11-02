@@ -2,4 +2,3 @@
 USER-AGENT,Argo*
 IP-CIDR,10.10.10.0/24,ss-home
 DOMAIN-SUFFIX,home,ss-home
-DOMAIN-SUFFIX,wxs.qq.com,REJECT
